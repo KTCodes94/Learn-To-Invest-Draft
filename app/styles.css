@@ -95,6 +95,13 @@ p {
     background-color: #555;
   }
 
+/*For X-Small Screens, mobile*/
+@media screen and (max-width: 400px){
+    .bodyContent .lessonPanel{
+        height: 200px;
+    }
+}
+
 
 /*For Small screens, laptops*/
 @media screen and (min-width: 769px) {
