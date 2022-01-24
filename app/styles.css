@@ -69,7 +69,8 @@ p {
 
 .bodyContent{
     margin-top: 10px;
-    padding-bottom: 10px;
+    padding: 20px;
+    /*padding-bottom: 10px;*/
     border-radius: 5px;    
     overflow: auto;
    /*background-color: #FBEEC1;*/
@@ -89,8 +90,8 @@ p {
     margin-top: 10px;
     border: 2px solid #412659;
     border-radius: 5px;
-    padding-left: 5px;
-    padding-bottom: 10px;
+    /*padding-left: 5px;
+    padding-bottom: 10px;*/
     background-color: azure;
     width: auto;
     height: 150px; 
