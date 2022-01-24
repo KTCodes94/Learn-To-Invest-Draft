@@ -12,7 +12,7 @@ h1{
 
 h2{
     text-align: center;
-    background:#8D8741;
+    background:#8968A6;
     opacity: .7;
     color: azure;
     border: 1pt solid black;
@@ -34,7 +34,7 @@ p {
 }
 
 .pageHeader {
-    background-color: #565656;
+    background-color: #412659;
     color: azure;
     padding: 20px; 
 
@@ -43,17 +43,17 @@ p {
 .bodyContent{
     margin-top: 10px;
     padding: 20px;
-    border: 2px solid #8D8741;
+    border: 2px solid #8968A6;
     border-radius: 5px;    
     overflow: auto;
    /*background-color: #FBEEC1;*/
-    color: #8D8741;  
+    color: #8968A6;  
     height: auto;
     
 }
 
 .pageFooter{
-    background-color: #565656;
+    background-color: #412659;
     color: white;
     padding: 5px;
 }
@@ -61,7 +61,7 @@ p {
 .bodyContent .lessonPanel{
     text-align: justify;
     margin-top: 10px;
-    border: 2px solid #8D8741;
+    border: 2px solid #8968A6;
     border-radius: 5px;
     padding-left: 10px;
     padding-bottom: 10px;
@@ -111,7 +111,7 @@ p {
         margin-top: 10px;
         margin-left: 2.5%;
         margin-right: 2.5%;
-        border: 2px solid #8D8741;
+        border: 2px solid #8968A6;
         border-radius: 5px;
         padding-left: 10px;
         padding-bottom: 10px;
