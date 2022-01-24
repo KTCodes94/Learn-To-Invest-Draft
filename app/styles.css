@@ -4,7 +4,10 @@
 
 body {
     margin: 0px;
+    background: #231F20;
+
 }
+
 
 h1{
     text-align: left;
@@ -15,7 +18,7 @@ h2{
     background:#8968A6;
     opacity: .7;
     color: azure;
-    border: 1pt solid black;
+    border: 1.5pt solid black;
     padding-left: 10px;
     padding-right: 10px;
     border-radius: 5px;
@@ -24,8 +27,13 @@ h2{
 }
 
 h3{
+    color: #412659;
     text-align: left;
     font-style: italic;   
+}
+
+header{
+    font-size: 1.5em;
 }
 
 p {
@@ -40,10 +48,29 @@ p {
 
 }
 
+#jumbotron {
+    margin: 10px;
+    
+}
+
+#banner {
+    width: 100%;
+    height: 200px;
+    border-radius: 5px;
+}
+
+.Introduction {
+    margin: 10px;
+    padding: 20px;
+    border: 2px solid #412659;
+    border-radius: 5px;
+    background-color:azure;
+}
+
 .bodyContent{
     margin-top: 10px;
     padding: 20px;
-    border: 2px solid #8968A6;
+    border: 2px solid #412659;
     border-radius: 5px;    
     overflow: auto;
    /*background-color: #FBEEC1;*/
@@ -61,7 +88,7 @@ p {
 .bodyContent .lessonPanel{
     text-align: justify;
     margin-top: 10px;
-    border: 2px solid #8968A6;
+    border: 2px solid #412659;
     border-radius: 5px;
     padding-left: 10px;
     padding-bottom: 10px;
@@ -111,7 +138,7 @@ p {
         margin-top: 10px;
         margin-left: 2.5%;
         margin-right: 2.5%;
-        border: 2px solid #8968A6;
+        border: 2px solid #412659;
         border-radius: 5px;
         padding-left: 10px;
         padding-bottom: 10px;
