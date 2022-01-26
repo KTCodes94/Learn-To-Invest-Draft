@@ -170,7 +170,7 @@ p {
     }
 
     .bodyContent .lessonPanel{
-        text-align: justify;
+        text-align: left;
         margin-top: 25px;
         margin-left: 2.5%;
         margin-right: 2.5%;
@@ -179,11 +179,24 @@ p {
         padding-left: 10px;
         padding-bottom: 10px;
         background-color: azure;
-        width: 42%;
-        height: 200px;
+        width: auto;
+        height: 225px;
         float: left;
-        
-        
+    }
+
+    .bodyContent .vocabPanel {
+        text-align: left;
+        margin-top: 25px;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+        border: 2px solid #412659;
+        border-radius: 5px;
+        padding-left: 10px;
+        padding-bottom: 10px;
+        background-color: azure;
+        width: auto;
+        height: auto;
+        float: left;
     }
 }
 
